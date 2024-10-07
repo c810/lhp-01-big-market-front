@@ -1,5 +1,5 @@
 // 请求地址
-const apiHostUrl = process.env.API_HOST_URL ? process.env.API_HOST_URL : "https://apifoxmock.com/m1/5246594-4914367-default";
+const apiHostUrl = process.env.API_HOST_URL ? process.env.API_HOST_URL : "http://117.72.86.192:8091";
 
 /**
  * 装配抽奖
